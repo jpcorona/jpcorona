@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jpcorona
 - 👀 I’m interested in spark, java, scala, python, big data, etc
-- 🌱 I’m currently learning github actions.
+- 🌱 I love anime
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me jpablo.cnavarro@gmail.com
 
